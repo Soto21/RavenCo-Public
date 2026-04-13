@@ -8,9 +8,9 @@
 
 | | |
 |---|---|
-| 🖥️ Website | `YOUR_WEBSITE_HERE` |
-| 💬 Discord | `YOUR_DISCORD_HERE` |
-| 📧 Contact | `YOUR_EMAIL_HERE` |
+| 🖥️ Website | `Soto` |
+| 💬 Discord | `Soto` |
+| 📧 Contact | `YSoto` |
 
 ---
 
