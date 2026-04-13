@@ -10,7 +10,7 @@
 |---|---|
 | 🖥️ Website | `Soto` |
 | 💬 Discord | `Soto` |
-| 📧 Contact | `YSoto` |
+| 📧 Contact | `Soto` |
 
 ---
 
