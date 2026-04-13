@@ -4,7 +4,7 @@ All notable changes from the base **TrinityConquer** to **RavenCo2**.
 
 ---
 
-## [RavenCo2] — Custom Server Build
+## [RavenCo] — Custom Server Build
 
 ### ⚔️ Combat
 
